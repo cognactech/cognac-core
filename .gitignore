@@ -1,2 +1,8 @@
+configuration/environment.php
+
 application/cache/*
 application/logs/*
+
+lighttpd-local
+
+.DS_Store
